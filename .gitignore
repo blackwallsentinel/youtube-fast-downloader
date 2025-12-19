@@ -1,0 +1,7 @@
+*.log
+*.mp4
+*.spec
+build/
+dist/
+rondo*/
+jsb doc/
